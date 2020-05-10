@@ -62,12 +62,12 @@ Dim php As String = "yourphpfilename.php?" & "folder="
  ## Donation:
  If this tool has been useful for you, feel free to thank me by buying me a coffee :)
 
-[![N|Solid](https://i.ibb.co/Sym2mzn/buymeacoffee.png)](https://www.buymeacoffee.com/mrfrost) 
+[![N|Solid](https://i.ibb.co/Sym2mzn/buymeacoffee.png)](https://www.buymeacoffee.com/ahmadchenwangxuesi) 
  
  ## Disclaimer:
 **This tool is supposed to be used only on authorized systems. Any unauthorized use of this tool without explicit permission is illegal.**
 
 ## License:
- [**GNU GENERAL PUBLIC LICENSE**](https://github.com/mrfr05t/Mr.Peter/blob/master/LICENSE) 
+ [**GNU GENERAL PUBLIC LICENSE**](https://github.com/ProjectorBUg/Mr.Link/blob/master/LICENSE) 
  
  
